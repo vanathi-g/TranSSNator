@@ -1,2 +1,2 @@
 # TranSSNator
-Tamil to English transliteration tool implemented in C. GUI developed using winAPI.
+A GUI tool to transliterate any piece of English text to corresponding Tamil text. GUI is totally built in vanilla C :)
